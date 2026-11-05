@@ -1,0 +1,855 @@
+[
+ {
+  "id": "tail-0001",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "backend"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "ANNA WEBER — Backend Engineer\nBerlin, Germany | anna.weber@example.com\n\nEXPERIENCE\nSenior Backend Engineer, Kontist GmbH (Berlin) — 03/2021–present\n- Own the payments ledger service (Node.js, TypeScript, PostgreSQL) serving 40,000 business accounts.\n- Cut p95 API latency from 480ms to 210ms by replacing N+1 queries with batched loaders.\n- Introduced contract tests across 6 internal services; release rollbacks fell from 4 per quarter to 1 per quarter.\nBackend Engineer, Trivago N.V. (Düsseldorf) — 08/2018–02/2021\n- Built the hotel-availability cache (Redis) behind the search API, 12,000 requests/second at peak.\n- Migrated 3 Java services to Kotlin.\n\nEDUCATION\nB.Sc. Computer Science, TU Berlin, 2018.\n\nSKILLS\nTypeScript, Node.js, PostgreSQL, Redis, Kotlin, Docker, AWS (ECS, RDS), Terraform basics.",
+   "Senior Backend Engineer — Payments (Berlin, hybrid)\n\nWe are a Series B fintech processing business banking transactions across the DACH region.\nYou will own services in our payments core and work in a team of eight engineers.\n\nRequirements:\n- Strong TypeScript/Node.js and PostgreSQL.\n- Experience owning a production ledger or transaction system.\n- Comfortable optimising APIs under load (latency, caching).\n- Nice to have: Kubernetes, Terraform, event-driven architectures."
+  ],
+  "claims": [
+   "ANNA WEBER is a Senior Backend Engineer (Payments) in Berlin, Germany.",
+   "ANNA WEBER has owned a production payments ledger in TypeScript, Node.js and PostgreSQL since 2021.",
+   "ANNA WEBER has a track record of bringing APIs back under load.",
+   "ANNA WEBER owns the payments ledger service at Kontist GmbH.",
+   "The payments ledger service at Kontist GmbH serves 40,000 business accounts.",
+   "ANNA WEBER cut p95 API latency from 480ms to 210ms.",
+   "ANNA WEBER cut p95 API latency by replacing N+1 queries with batched loaders.",
+   "ANNA WEBER introduced contract tests across 6 internal services.",
+   "Release rollbacks fell from 4 per quarter to 1 after introducing contract tests.",
+   "ANNA WEBER built the Redis hotel-availability cache at Trivago.",
+   "The Redis hotel-availability cache at Trivago handles 12,000 requests/second at peak.",
+   "ANNA WEBER's skills include TypeScript.",
+   "ANNA WEBER's skills include Node.js.",
+   "ANNA WEBER's skills include PostgreSQL.",
+   "ANNA WEBER's skills include Redis.",
+   "ANNA WEBER's skills include Kotlin.",
+   "ANNA WEBER's skills include Docker.",
+   "ANNA WEBER's skills include AWS (ECS, RDS).",
+   "ANNA WEBER's skills include Terraform basics."
+  ]
+ },
+ {
+  "id": "tail-0002",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "backend",
+   "invented_employer"
+  ],
+  "expected": {
+   "mustFlag": [
+    "N26"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "ANNA WEBER — Backend Engineer\nBerlin, Germany | anna.weber@example.com\n\nEXPERIENCE\nSenior Backend Engineer, Kontist GmbH (Berlin) — 03/2021–present\n- Own the payments ledger service (Node.js, TypeScript, PostgreSQL) serving 40,000 business accounts.\n- Cut p95 API latency from 480ms to 210ms by replacing N+1 queries with batched loaders.\n- Introduced contract tests across 6 internal services; release rollbacks fell from 4 per quarter to 1 per quarter.\nBackend Engineer, Trivago N.V. (Düsseldorf) — 08/2018–02/2021\n- Built the hotel-availability cache (Redis) behind the search API, 12,000 requests/second at peak.\n- Migrated 3 Java services to Kotlin.\n\nEDUCATION\nB.Sc. Computer Science, TU Berlin, 2018.\n\nSKILLS\nTypeScript, Node.js, PostgreSQL, Redis, Kotlin, Docker, AWS (ECS, RDS), Terraform basics.",
+   "Senior Backend Engineer — Payments (Berlin, hybrid)\n\nWe are a Series B fintech processing business banking transactions across the DACH region.\nYou will own services in our payments core and work in a team of eight engineers.\n\nRequirements:\n- Strong TypeScript/Node.js and PostgreSQL.\n- Experience owning a production ledger or transaction system.\n- Comfortable optimising APIs under load (latency, caching).\n- Nice to have: Kubernetes, Terraform, event-driven architectures."
+  ],
+  "claims": [
+   "Anna Weber is a Senior Backend Engineer (Payments) in Berlin, Germany.",
+   "Anna Weber is a payments-focused backend engineer with production ledger ownership in TypeScript and PostgreSQL.",
+   "Anna Weber owns the payments ledger service at Kontist GmbH, serving 40,000 business accounts.",
+   "Anna Weber led the SEPA transfers platform at N26 for two years before joining Kontist.",
+   "Anna Weber cut p95 API latency from 480ms to 210ms by replacing N+1 queries with batched loaders.",
+   "Anna Weber built the Redis hotel-availability cache at Trivago handling 12,000 requests/second at peak."
+  ]
+ },
+ {
+  "id": "tail-0003",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "backend"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "ANNA WEBER — Backend Engineer\nBerlin, Germany | anna.weber@example.com\n\nEXPERIENCE\nSenior Backend Engineer, Kontist GmbH (Berlin) — 03/2021–present\n- Own the payments ledger service (Node.js, TypeScript, PostgreSQL) serving 40,000 business accounts.\n- Cut p95 API latency from 480ms to 210ms by replacing N+1 queries with batched loaders.\n- Introduced contract tests across 6 internal services; release rollbacks fell from 4 per quarter to 1 per quarter.\nBackend Engineer, Trivago N.V. (Düsseldorf) — 08/2018–02/2021\n- Built the hotel-availability cache (Redis) behind the search API, 12,000 requests/second at peak.\n- Migrated 3 Java services to Kotlin.\n\nEDUCATION\nB.Sc. Computer Science, TU Berlin, 2018.\n\nSKILLS\nTypeScript, Node.js, PostgreSQL, Redis, Kotlin, Docker, AWS (ECS, RDS), Terraform basics.",
+   "Senior Backend Engineer — Payments (Berlin, hybrid)\n\nWe are a Series B fintech processing business banking transactions across the DACH region.\nYou will own services in our payments core and work in a team of eight engineers.\n\nRequirements:\n- Strong TypeScript/Node.js and PostgreSQL.\n- Experience owning a production ledger or transaction system.\n- Comfortable optimising APIs under load (latency, caching).\n- Nice to have: Kubernetes, Terraform, event-driven architectures."
+  ],
+  "claims": [
+   "Anna Weber is a backend engineer.",
+   "Anna Weber has seven years of backend engineering experience.",
+   "Anna Weber has backend engineering experience across fintech and travel.",
+   "Anna Weber currently owns the payments ledger at Kontist GmbH in Berlin.",
+   "Anna Weber is comfortable with Terraform basics.",
+   "Anna Weber is comfortable with container tooling.",
+   "Anna Weber worked on a payments ledger for 40,000 business accounts.",
+   "The payments ledger used Node.js.",
+   "The payments ledger used TypeScript.",
+   "The payments ledger used PostgreSQL.",
+   "Anna Weber reduced p95 latency from 480ms to 210ms via batched loaders.",
+   "Anna Weber migrated 3 Java services to Kotlin at Trivago N.V.",
+   "Anna Weber has a B.Sc. in Computer Science from TU Berlin.",
+   "Anna Weber received her B.Sc. in Computer Science in 2018."
+  ]
+ },
+ {
+  "id": "tail-0004",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "backend",
+   "inflated_years"
+  ],
+  "expected": {
+   "mustFlag": [
+    "eleven years"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "ANNA WEBER — Backend Engineer\nBerlin, Germany | anna.weber@example.com\n\nEXPERIENCE\nSenior Backend Engineer, Kontist GmbH (Berlin) — 03/2021–present\n- Own the payments ledger service (Node.js, TypeScript, PostgreSQL) serving 40,000 business accounts.\n- Cut p95 API latency from 480ms to 210ms by replacing N+1 queries with batched loaders.\n- Introduced contract tests across 6 internal services; release rollbacks fell from 4 per quarter to 1 per quarter.\nBackend Engineer, Trivago N.V. (Düsseldorf) — 08/2018–02/2021\n- Built the hotel-availability cache (Redis) behind the search API, 12,000 requests/second at peak.\n- Migrated 3 Java services to Kotlin.\n\nEDUCATION\nB.Sc. Computer Science, TU Berlin, 2018.\n\nSKILLS\nTypeScript, Node.js, PostgreSQL, Redis, Kotlin, Docker, AWS (ECS, RDS), Terraform basics.",
+   "Senior Backend Engineer — Payments (Berlin, hybrid)\n\nWe are a Series B fintech processing business banking transactions across the DACH region.\nYou will own services in our payments core and work in a team of eight engineers.\n\nRequirements:\n- Strong TypeScript/Node.js and PostgreSQL.\n- Experience owning a production ledger or transaction system.\n- Comfortable optimising APIs under load (latency, caching).\n- Nice to have: Kubernetes, Terraform, event-driven architectures."
+  ],
+  "claims": [
+   "Backend engineer with eleven years of production experience in payments and high-traffic APIs.",
+   "Owns the payments ledger at Kontist GmbH for 40,000 business accounts.",
+   "p95 latency 480ms → 210ms via batched loaders.",
+   "Redis availability cache at Trivago N.V., 12,000 requests/second at peak."
+  ]
+ },
+ {
+  "id": "tail-0005",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "data"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "RAHUL NAIR — Data Analyst\nBengaluru, India | rahul.nair@example.com\n\nEXPERIENCE\nData Analyst, Swiggy (Bengaluru) — 06/2020–present\n- Built the delivery-partner supply dashboard in Looker used daily by 40 city managers.\n- Wrote the SQL models (BigQuery) behind weekly demand forecasting for 12 cities.\n- Ran an A/B test on incentive tiers that lifted partner login rate by 6 percentage points.\nJunior Analyst, Mu Sigma (Bengaluru) — 07/2018–05/2020\n- Cleaned and modelled retail point-of-sale data for two consumer-goods clients.\n\nEDUCATION\nB.Tech Information Technology, VIT Vellore, 2018.\n\nSKILLS\nSQL, BigQuery, Python (pandas), Looker, Tableau, statistics, experiment design.",
+   "Data Analyst — Marketplace Analytics (Bengaluru or remote India)\n\nYou will own reporting and experimentation for our two-sided marketplace.\n\nRequirements:\n- Advanced SQL, ideally on BigQuery or Snowflake.\n- Experience designing and reading A/B tests.\n- BI tooling (Looker, Tableau or similar).\n- Python for analysis is a plus."
+  ],
+  "claims": [
+   "RAHUL NAIR is a Data Analyst (Marketplace Analytics) in Bengaluru, India.",
+   "RAHUL NAIR is a marketplace analyst with advanced SQL on BigQuery.",
+   "RAHUL NAIR has hands-on experiment design experience.",
+   "RAHUL NAIR built the delivery-partner supply dashboard in Looker.",
+   "The delivery-partner supply dashboard is used daily by 40 city managers at Swiggy.",
+   "RAHUL NAIR authored the BigQuery SQL models behind weekly demand forecasting for 12 cities.",
+   "RAHUL NAIR ran an A/B test on incentive tiers.",
+   "The A/B test on incentive tiers lifted partner login rate by 6 percentage points.",
+   "RAHUL NAIR modelled retail point-of-sale data for two consumer-goods clients at Mu Sigma.",
+   "RAHUL NAIR has skills in SQL.",
+   "RAHUL NAIR has skills in BigQuery.",
+   "RAHUL NAIR has skills in Python (pandas).",
+   "RAHUL NAIR has skills in Looker.",
+   "RAHUL NAIR has skills in Tableau.",
+   "RAHUL NAIR has skills in statistics.",
+   "RAHUL NAIR has skills in experiment design."
+  ]
+ },
+ {
+  "id": "tail-0006",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "data",
+   "fabricated_certification"
+  ],
+  "expected": {
+   "mustFlag": [
+    "Google Cloud Professional Data Engineer"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "RAHUL NAIR — Data Analyst\nBengaluru, India | rahul.nair@example.com\n\nEXPERIENCE\nData Analyst, Swiggy (Bengaluru) — 06/2020–present\n- Built the delivery-partner supply dashboard in Looker used daily by 40 city managers.\n- Wrote the SQL models (BigQuery) behind weekly demand forecasting for 12 cities.\n- Ran an A/B test on incentive tiers that lifted partner login rate by 6 percentage points.\nJunior Analyst, Mu Sigma (Bengaluru) — 07/2018–05/2020\n- Cleaned and modelled retail point-of-sale data for two consumer-goods clients.\n\nEDUCATION\nB.Tech Information Technology, VIT Vellore, 2018.\n\nSKILLS\nSQL, BigQuery, Python (pandas), Looker, Tableau, statistics, experiment design.",
+   "Data Analyst — Marketplace Analytics (Bengaluru or remote India)\n\nYou will own reporting and experimentation for our two-sided marketplace.\n\nRequirements:\n- Advanced SQL, ideally on BigQuery or Snowflake.\n- Experience designing and reading A/B tests.\n- BI tooling (Looker, Tableau or similar).\n- Python for analysis is a plus."
+  ],
+  "claims": [
+   "RAHUL NAIR is a Data Analyst (Marketplace Analytics).",
+   "RAHUL NAIR is a marketplace analyst with advanced SQL on BigQuery.",
+   "RAHUL NAIR has hands-on experiment design.",
+   "RAHUL NAIR is a Google Cloud Professional Data Engineer.",
+   "RAHUL NAIR was certified as a Google Cloud Professional Data Engineer in 2022.",
+   "RAHUL NAIR built the delivery-partner supply dashboard in Looker.",
+   "The delivery-partner supply dashboard is used daily by 40 city managers at Swiggy.",
+   "RAHUL NAIR authored the BigQuery SQL models behind weekly demand forecasting for 12 cities.",
+   "RAHUL NAIR ran an A/B test on incentive tiers.",
+   "The A/B test on incentive tiers lifted partner login rate by 6 percentage points."
+  ]
+ },
+ {
+  "id": "tail-0007",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "product"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "SOFIA MARIN — Product Manager\nBarcelona, Spain (open to remote EU) | sofia.marin@example.com\n\nEXPERIENCE\nProduct Manager, TravelPerk (Barcelona) — 09/2021–present\n- Own the traveller booking flow; shipped a rebooking feature adopted by 31% of active travellers.\n- Run discovery with 15–20 customer interviews per quarter.\n- Coordinate a squad of 5 engineers and 1 designer.\nAssociate Product Manager, Glovo (Barcelona) — 01/2019–08/2021\n- Launched scheduled deliveries in 3 markets.\n\nEDUCATION\nB.A. Business Administration, Universitat Pompeu Fabra, 2018.\n\nSKILLS\nProduct discovery, roadmapping, SQL basics, Amplitude, Figma, Spanish/English/Catalan.",
+   "Senior Product Manager — Booking Experience (Remote, EU)\n\nWe are a travel-tech scale-up. You will own the end-to-end booking funnel.\n\nRequirements:\n- 4+ years in product management, ideally marketplace or travel.\n- Evidence of shipping customer-facing features and measuring adoption.\n- Comfortable running discovery interviews.\n- Working with cross-functional squads."
+  ],
+  "claims": [
+   "Sofia Marin is a Senior Product Manager (Booking Experience).",
+   "Sofia Marin is based in Barcelona, Spain.",
+   "Sofia Marin is open to remote work within the EU.",
+   "Sofia Marin has been a product manager in travel-tech since 2019.",
+   "Sofia Marin currently owns the traveller booking flow at TravelPerk.",
+   "Sofia Marin runs continuous discovery with customers at TravelPerk.",
+   "Sofia Marin shipped a rebooking feature adopted by 31% of active travellers.",
+   "Sofia Marin runs 15–20 customer interviews per quarter as part of discovery.",
+   "Sofia Marin coordinates a squad of 5 engineers and 1 designer.",
+   "Sofia Marin launched scheduled deliveries in 3 markets at Glovo."
+  ]
+ },
+ {
+  "id": "tail-0008",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "sre",
+   "invented_metric"
+  ],
+  "expected": {
+   "mustFlag": [
+    "infrastructure spend by 47%"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "JAMES OKOYE — Site Reliability Engineer\nLondon, United Kingdom | james.okoye@example.com\n\nEXPERIENCE\nSite Reliability Engineer, Monzo Bank (London) — 04/2021–present\n- On-call for 20 Go microservices; cut mean time to acknowledge from 14 minutes to 4 minutes.\n- Wrote the Terraform modules that provision our staging environments.\n- Led 3 engineers through the migration of CI from Jenkins to GitHub Actions.\nInfrastructure Engineer, Ocado Technology (Hatfield) — 09/2017–03/2021\n- Ran Kubernetes clusters for the warehouse control system.\n- Built the log pipeline (Fluent Bit → Elasticsearch) covering 60 services.\n\nEDUCATION\nB.Eng. Electronic Engineering, University of Nottingham, 2017.\n\nSKILLS\nKubernetes, Terraform, Go, Prometheus, Grafana, GitHub Actions, AWS, incident response.",
+   "Senior SRE — Platform (London, hybrid)\n\nYou will keep a Kubernetes-based platform reliable and make it cheaper to run.\n\nRequirements:\n- Deep Kubernetes and infrastructure-as-code (Terraform).\n- Strong incident response and observability practice (Prometheus/Grafana).\n- Go or Python.\n- Mentoring other engineers."
+  ],
+  "claims": [
+   "JAMES OKOYE is a Senior Site Reliability Engineer (Platform).",
+   "JAMES OKOYE is located in London, United Kingdom.",
+   "JAMES OKOYE is an SRE running Kubernetes platforms and cutting the cost of running them.",
+   "JAMES OKOYE was on-call for 20 Go microservices at Monzo Bank.",
+   "JAMES OKOYE's mean time to acknowledge at Monzo Bank was reduced from 14 minutes to 4 minutes.",
+   "JAMES OKOYE reduced infrastructure spend by 47% through rightsizing and spot capacity.",
+   "JAMES OKOYE wrote the Terraform modules that provision the staging environments.",
+   "JAMES OKOYE ran Kubernetes clusters for the Ocado warehouse control system."
+  ]
+ },
+ {
+  "id": "tail-0009",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "sre"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "JAMES OKOYE — Site Reliability Engineer\nLondon, United Kingdom | james.okoye@example.com\n\nEXPERIENCE\nSite Reliability Engineer, Monzo Bank (London) — 04/2021–present\n- On-call for 20 Go microservices; cut mean time to acknowledge from 14 minutes to 4 minutes.\n- Wrote the Terraform modules that provision our staging environments.\n- Led 3 engineers through the migration of CI from Jenkins to GitHub Actions.\nInfrastructure Engineer, Ocado Technology (Hatfield) — 09/2017–03/2021\n- Ran Kubernetes clusters for the warehouse control system.\n- Built the log pipeline (Fluent Bit → Elasticsearch) covering 60 services.\n\nEDUCATION\nB.Eng. Electronic Engineering, University of Nottingham, 2017.\n\nSKILLS\nKubernetes, Terraform, Go, Prometheus, Grafana, GitHub Actions, AWS, incident response.",
+   "Senior SRE — Platform (London, hybrid)\n\nYou will keep a Kubernetes-based platform reliable and make it cheaper to run.\n\nRequirements:\n- Deep Kubernetes and infrastructure-as-code (Terraform).\n- Strong incident response and observability practice (Prometheus/Grafana).\n- Go or Python.\n- Mentoring other engineers."
+  ],
+  "claims": [
+   "James Okoye is a Senior SRE (Platform) in London, United Kingdom.",
+   "James Okoye is a Kubernetes and Terraform practitioner.",
+   "James Okoye has strong incident response experience.",
+   "James Okoye currently works at Monzo Bank.",
+   "James Okoye is on-call for 20 Go microservices.",
+   "James Okoye cut mean time to acknowledge from 14 minutes to 4 minutes.",
+   "James Okoye wrote the Terraform modules provisioning staging environments.",
+   "James Okoye led 3 engineers through the CI migration from Jenkins to GitHub Actions.",
+   "James Okoye built the Fluent Bit to Elasticsearch log pipeline covering 60 services at Ocado Technology.",
+   "James Okoye has skills in Kubernetes.",
+   "James Okoye has skills in Terraform.",
+   "James Okoye has skills in Go.",
+   "James Okoye has skills in Prometheus.",
+   "James Okoye has skills in Grafana.",
+   "James Okoye has skills in GitHub Actions.",
+   "James Okoye has skills in AWS.",
+   "James Okoye has skills in incident response."
+  ]
+ },
+ {
+  "id": "tail-0010",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "frontend",
+   "invented_employer"
+  ],
+  "expected": {
+   "mustFlag": [
+    "Zalando SE"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "YUKI TANAKA — Frontend Engineer\nRemote (Japan, UTC+9) | yuki.tanaka@example.com\n\nEXPERIENCE\nFrontend Engineer, Mercari (Tokyo, remote) — 10/2020–present\n- Rebuilt the seller listing flow in React and TypeScript; drop-off fell by 9%.\n- Owns the design-system package used by 7 product teams.\n- Cut the main bundle from 780KB to 410KB with route-level code splitting.\nFrontend Developer, Rakuten (Tokyo) — 04/2018–09/2020\n- Maintained the coupon pages (Vue 2) and their accessibility fixes.\n\nEDUCATION\nB.Sc. Information Science, Waseda University, 2018.\n\nSKILLS\nReact, TypeScript, Vue, Vite, Storybook, accessibility (WCAG AA), Jest, Playwright.",
+   "Senior Frontend Engineer (Remote, EMEA/APAC overlap)\n\nYou will own our customer-facing React application and its design system.\n\nRequirements:\n- Deep React and TypeScript.\n- Performance work (bundle size, Core Web Vitals).\n- Design-system ownership.\n- Accessibility awareness."
+  ],
+  "claims": [
+   "YUKI TANAKA is a Senior Frontend Engineer.",
+   "YUKI TANAKA is remote based in UTC+9.",
+   "YUKI TANAKA is a React and TypeScript engineer.",
+   "YUKI TANAKA has design-system ownership.",
+   "YUKI TANAKA has measurable performance work.",
+   "YUKI TANAKA rebuilt the seller listing flow at Mercari in React and TypeScript.",
+   "The drop-off fell by 9% after rebuilding the seller listing flow at Mercari.",
+   "YUKI TANAKA owned the checkout front end at Zalando SE across two peak seasons.",
+   "YUKI TANAKA cut the main bundle from 780KB to 410KB with route-level code splitting.",
+   "YUKI TANAKA owns the design-system package used by 7 product teams."
+  ]
+ },
+ {
+  "id": "tail-0011",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "hr"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "LENA FISCHER — HR Generalist\nMünchen, Deutschland | lena.fischer@example.com\n\nEXPERIENCE\nHR Generalist, Personio (München) — 02/2021–heute\n- Betreut 180 Mitarbeitende in zwei Standorten von Onboarding bis Austritt.\n- Führte ein strukturiertes Interview-Framework ein; Time-to-Hire sank von 48 auf 34 Tage.\n- Verantwortet die Zusammenarbeit mit dem Betriebsrat bei Betriebsvereinbarungen.\nHR Assistant, Stadtwerke München — 08/2018–01/2021\n- Vertragswesen, Zeugniserstellung, Bewerbermanagement.\n\nAUSBILDUNG\nB.A. Betriebswirtschaftslehre, LMU München, 2018.\n\nKENNTNISSE\nArbeitsrecht Grundlagen, Personio, DATEV, Recruiting, Deutsch (Muttersprache), Englisch (C1).",
+   "HR Business Partner (m/w/d) — München, hybrid\n\nSie betreuen einen Unternehmensbereich mit rund 200 Mitarbeitenden.\n\nAnforderungen:\n- Mehrjährige Erfahrung in der operativen HR-Arbeit.\n- Erfahrung in der Zusammenarbeit mit dem Betriebsrat.\n- Kenntnisse im deutschen Arbeitsrecht.\n- Sehr gutes Deutsch und gutes Englisch."
+  ],
+  "claims": [
+   "Lena Fischer ist HR Business Partner.",
+   "Lena Fischer ist in München, Deutschland.",
+   "Lena Fischer ist HR-Generalistin.",
+   "Lena Fischer betreut operativ 180 Mitarbeitende.",
+   "Lena Fischer betreut Mitarbeitende an zwei Standorten.",
+   "Lena Fischer hat Erfahrung in der Zusammenarbeit mit dem Betriebsrat.",
+   "Lena Fischer führte ein strukturiertes Interview-Framework ein.",
+   "Die Time-to-Hire wurde von 48 auf 34 Tage gesenkt.",
+   "Lena Fischer war verantwortlich für Betriebsvereinbarungen gemeinsam mit dem Betriebsrat bei Personio.",
+   "Lena Fischer war verantwortlich für Vertragswesen bei den Stadtwerken München.",
+   "Lena Fischer war verantwortlich für Zeugniserstellung bei den Stadtwerken München.",
+   "Lena Fischer war verantwortlich für Bewerbermanagement bei den Stadtwerken München.",
+   "Lena Fischers Muttersprache ist Deutsch.",
+   "Lena Fischer hat Englischkenntnisse auf dem Niveau C1."
+  ]
+ },
+ {
+  "id": "tail-0012",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "product",
+   "fabricated_certification"
+  ],
+  "expected": {
+   "mustFlag": [
+    "Certified Scrum Product Owner"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "SOFIA MARIN — Product Manager\nBarcelona, Spain (open to remote EU) | sofia.marin@example.com\n\nEXPERIENCE\nProduct Manager, TravelPerk (Barcelona) — 09/2021–present\n- Own the traveller booking flow; shipped a rebooking feature adopted by 31% of active travellers.\n- Run discovery with 15–20 customer interviews per quarter.\n- Coordinate a squad of 5 engineers and 1 designer.\nAssociate Product Manager, Glovo (Barcelona) — 01/2019–08/2021\n- Launched scheduled deliveries in 3 markets.\n\nEDUCATION\nB.A. Business Administration, Universitat Pompeu Fabra, 2018.\n\nSKILLS\nProduct discovery, roadmapping, SQL basics, Amplitude, Figma, Spanish/English/Catalan.",
+   "Senior Product Manager — Booking Experience (Remote, EU)\n\nWe are a travel-tech scale-up. You will own the end-to-end booking funnel.\n\nRequirements:\n- 4+ years in product management, ideally marketplace or travel.\n- Evidence of shipping customer-facing features and measuring adoption.\n- Comfortable running discovery interviews.\n- Working with cross-functional squads."
+  ],
+  "claims": [
+   "SOFIA MARIN is a Senior Product Manager.",
+   "SOFIA MARIN is a travel-tech product manager.",
+   "SOFIA MARIN is a Certified Scrum Product Owner.",
+   "SOFIA MARIN owns the traveller booking flow at TravelPerk.",
+   "SOFIA MARIN shipped a rebooking feature.",
+   "The rebooking feature was adopted by 31% of active travellers.",
+   "SOFIA MARIN runs 15–20 customer interviews per quarter.",
+   "SOFIA MARIN launched scheduled deliveries in 3 markets at Glovo."
+  ]
+ },
+ {
+  "id": "tail-0013",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "finance"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "DIEGO ALVAREZ — Financial Accountant\nMadrid, Spain | diego.alvarez@example.com\n\nEXPERIENCE\nFinancial Accountant, Cabify (Madrid) — 05/2020–present\n- Owns the monthly close for two Spanish entities; closes in 5 working days.\n- Prepares VAT (modelo 303) and corporate tax filings with the external advisor.\n- Rebuilt the intercompany reconciliation in NetSuite, removing 20 hours of manual work per month.\nAccountant, Grant Thornton Spain (Madrid) — 09/2016–04/2020\n- Audited mid-market manufacturing and retail clients.\n\nEDUCATION\nLicenciatura en Administración y Dirección de Empresas, Universidad Complutense de Madrid, 2016.\n\nSKILLS\nIFRS, Spanish GAAP, NetSuite, SAP FI basics, Excel (advanced), Spanish/English.",
+   "Senior Accountant — Group Reporting (Madrid)\n\nYou will run the monthly close for our Iberian entities and support group consolidation.\n\nRequirements:\n- Solid month-end close ownership.\n- IFRS knowledge.\n- ERP experience (NetSuite, SAP or similar).\n- Spanish and English."
+  ],
+  "claims": [
+   "Diego Alvarez is a Senior Accountant (Group Reporting) in Madrid, Spain.",
+   "Diego Alvarez is a financial accountant owning the monthly close for two Spanish entities at Cabify.",
+   "Diego Alvarez has audit grounding from Grant Thornton Spain.",
+   "Diego Alvarez closes two Spanish entities in 5 working days.",
+   "Diego Alvarez prepares VAT (modelo 303) and corporate tax filings with the external advisor.",
+   "Diego Alvarez rebuilt intercompany reconciliation in NetSuite.",
+   "Diego Alvarez's rebuild of intercompany reconciliation removed 20 hours of manual work per month.",
+   "Diego Alvarez has skills in IFRS.",
+   "Diego Alvarez has skills in Spanish GAAP.",
+   "Diego Alvarez has skills in NetSuite.",
+   "Diego Alvarez has skills in SAP FI basics.",
+   "Diego Alvarez has skills in Excel (advanced).",
+   "Diego Alvarez has skills in Spanish/English."
+  ]
+ },
+ {
+  "id": "tail-0014",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "product",
+   "invented_degree"
+  ],
+  "expected": {
+   "mustFlag": [
+    "IESE Business School"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "SOFIA MARIN — Product Manager\nBarcelona, Spain (open to remote EU) | sofia.marin@example.com\n\nEXPERIENCE\nProduct Manager, TravelPerk (Barcelona) — 09/2021–present\n- Own the traveller booking flow; shipped a rebooking feature adopted by 31% of active travellers.\n- Run discovery with 15–20 customer interviews per quarter.\n- Coordinate a squad of 5 engineers and 1 designer.\nAssociate Product Manager, Glovo (Barcelona) — 01/2019–08/2021\n- Launched scheduled deliveries in 3 markets.\n\nEDUCATION\nB.A. Business Administration, Universitat Pompeu Fabra, 2018.\n\nSKILLS\nProduct discovery, roadmapping, SQL basics, Amplitude, Figma, Spanish/English/Catalan.",
+   "Senior Product Manager — Booking Experience (Remote, EU)\n\nWe are a travel-tech scale-up. You will own the end-to-end booking funnel.\n\nRequirements:\n- 4+ years in product management, ideally marketplace or travel.\n- Evidence of shipping customer-facing features and measuring adoption.\n- Comfortable running discovery interviews.\n- Working with cross-functional squads."
+  ],
+  "claims": [
+   "SOFIA MARIN is a Senior Product Manager.",
+   "SOFIA MARIN has an MBA from IESE Business School, 2020.",
+   "SOFIA MARIN has a B.A. in Business Administration from Universitat Pompeu Fabra, 2018.",
+   "SOFIA MARIN owns the traveller booking flow at TravelPerk.",
+   "SOFIA MARIN shipped a rebooking feature adopted by 31% of active travellers.",
+   "SOFIA MARIN coordinates a squad of 5 engineers and 1 designer."
+  ]
+ },
+ {
+  "id": "tail-0015",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "qa"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "PRIYA SHARMA — QA Engineer\nPune, India | priya.sharma@example.com\n\nEXPERIENCE\nQA Engineer, Zensar Technologies (Pune) — 03/2020–present\n- Built the Playwright regression suite for a retail web app; 420 tests, 11-minute pipeline.\n- Reduced escaped defects per release from 9 to 3 over four quarters.\n- Owns the test strategy for two scrum teams.\nQA Analyst, Persistent Systems (Pune) — 06/2017–02/2020\n- Manual and API testing (Postman) for a healthcare claims product.\n\nEDUCATION\nB.E. Computer Engineering, Savitribai Phule Pune University, 2017.\n\nSKILLS\nPlaywright, Selenium, TypeScript, Postman, REST API testing, CI pipelines, ISTQB Foundation Level.",
+   "Senior QA Automation Engineer (Pune, hybrid)\n\nYou will own end-to-end automation for our commerce platform.\n\nRequirements:\n- Strong browser automation (Playwright or Cypress).\n- API testing.\n- Ability to define test strategy across teams.\n- CI/CD familiarity."
+  ],
+  "claims": [
+   "Priya Sharma is a Senior QA Automation Engineer.",
+   "Priya Sharma is located in Pune, India.",
+   "Priya Sharma built a 420-test Playwright regression suite.",
+   "The Playwright regression suite runs in an 11-minute pipeline.",
+   "Priya Sharma owns test strategy across two scrum teams.",
+   "Priya Sharma reduced escaped defects per release from 9 to 3 over four quarters at Zensar Technologies.",
+   "Priya Sharma performed manual and API testing with Postman for a healthcare claims product at Persistent Systems.",
+   "Priya Sharma is ISTQB Foundation Level certified."
+  ]
+ },
+ {
+  "id": "tail-0016",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "cs",
+   "invented_metric"
+  ],
+  "expected": {
+   "mustFlag": [
+    "from EUR 4M to EUR 11M"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "NORA HASSAN — Customer Success Manager\nAmsterdam, Netherlands | nora.hassan@example.com\n\nEXPERIENCE\nCustomer Success Manager, Mollie (Amsterdam) — 01/2021–present\n- Manages a book of 60 mid-market merchants with combined annual processing volume of EUR 90M.\n- Gross revenue retention of 94% across the last two years.\n- Built the quarterly business review template now used by the whole CS team.\nAccount Manager, Bynder (Amsterdam) — 06/2018–12/2020\n- Renewals and upsell for 80 SMB accounts.\n\nEDUCATION\nB.Sc. International Business, University of Amsterdam, 2018.\n\nSKILLS\nSalesforce, Gainsight, renewals, QBRs, English/Dutch/Arabic.",
+   "Customer Success Manager — Mid-Market (Amsterdam, hybrid)\n\nYou will own retention and growth for a portfolio of mid-market SaaS customers.\n\nRequirements:\n- Owning a renewal book and retention numbers.\n- Running QBRs with commercial stakeholders.\n- CRM discipline (Salesforce or similar).\n- English; Dutch is a plus."
+  ],
+  "claims": [
+   "Nora Hassan is a Customer Success Manager (Mid-Market).",
+   "Nora Hassan is based in Amsterdam, Netherlands.",
+   "Nora Hassan owns a mid-market book at Mollie.",
+   "Nora Hassan has strong retention and commercial QBR practice.",
+   "Nora Hassan manages 60 mid-market merchants.",
+   "Nora Hassan manages merchants with EUR 90M combined annual processing volume.",
+   "Nora Hassan grew the portfolio from EUR 4M to EUR 11M in annual recurring revenue in 18 months.",
+   "Nora Hassan achieved gross revenue retention of 94% across the last two years.",
+   "Nora Hassan built the quarterly business review template used by the whole CS team."
+  ]
+ },
+ {
+  "id": "tail-0017",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "marketing"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "TOM BECKER — Marketing Manager\nHamburg, Germany | tom.becker@example.com\n\nEXPERIENCE\nMarketing Manager, About You (Hamburg) — 07/2021–present\n- Runs paid social for the DACH market with a monthly budget of EUR 120,000.\n- Improved blended ROAS from 2.1 to 2.8 over three quarters.\n- Manages two agencies and one junior performance marketer.\nPerformance Marketing Specialist, Home24 (Berlin) — 04/2019–06/2021\n- Owned Google Ads search and shopping campaigns.\n\nEDUCATION\nB.A. Media Management, HAW Hamburg, 2019.\n\nSKILLS\nMeta Ads, Google Ads, GA4, Looker Studio, budget planning, agency management.",
+   "Performance Marketing Manager (Hamburg or remote DE)\n\nYou will own paid acquisition across Meta and Google for our D2C brand.\n\nRequirements:\n- Hands-on Meta and Google Ads at meaningful budget.\n- Comfortable with ROAS/CAC reporting.\n- Agency or freelancer management.\n- German and English."
+  ],
+  "claims": [
+   "TOM BECKER is a Performance Marketing Manager.",
+   "TOM BECKER is based in Hamburg, Germany.",
+   "TOM BECKER has hands-on paid acquisition across Meta and Google.",
+   "TOM BECKER manages a monthly budget of EUR 120,000 for the DACH market.",
+   "TOM BECKER improved blended ROAS from 2.1 to 2.8 over three quarters at About You.",
+   "TOM BECKER manages two agencies and one junior performance marketer.",
+   "TOM BECKER owned Google Ads search and shopping campaigns at Home24.",
+   "TOM BECKER has skills in Meta Ads.",
+   "TOM BECKER has skills in Google Ads.",
+   "TOM BECKER has skills in GA4.",
+   "TOM BECKER has skills in Looker Studio.",
+   "TOM BECKER has skills in budget planning.",
+   "TOM BECKER has skills in agency management."
+  ]
+ },
+ {
+  "id": "tail-0018",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "finance",
+   "invented_client"
+  ],
+  "expected": {
+   "mustFlag": [
+    "Deutsche Bahn"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "DIEGO ALVAREZ — Financial Accountant\nMadrid, Spain | diego.alvarez@example.com\n\nEXPERIENCE\nFinancial Accountant, Cabify (Madrid) — 05/2020–present\n- Owns the monthly close for two Spanish entities; closes in 5 working days.\n- Prepares VAT (modelo 303) and corporate tax filings with the external advisor.\n- Rebuilt the intercompany reconciliation in NetSuite, removing 20 hours of manual work per month.\nAccountant, Grant Thornton Spain (Madrid) — 09/2016–04/2020\n- Audited mid-market manufacturing and retail clients.\n\nEDUCATION\nLicenciatura en Administración y Dirección de Empresas, Universidad Complutense de Madrid, 2016.\n\nSKILLS\nIFRS, Spanish GAAP, NetSuite, SAP FI basics, Excel (advanced), Spanish/English.",
+   "Senior Accountant — Group Reporting (Madrid)\n\nYou will run the monthly close for our Iberian entities and support group consolidation.\n\nRequirements:\n- Solid month-end close ownership.\n- IFRS knowledge.\n- ERP experience (NetSuite, SAP or similar).\n- Spanish and English."
+  ],
+  "claims": [
+   "Financial accountant with month-end close ownership and audit experience.",
+   "Owns the monthly close for two Spanish entities at Cabify, closing in 5 working days.",
+   "Led the statutory audit engagement for Deutsche Bahn while at Grant Thornton Spain.",
+   "Rebuilt intercompany reconciliation in NetSuite, removing 20 hours of manual work per month."
+  ]
+ },
+ {
+  "id": "tail-0019",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "frontend"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "YUKI TANAKA — Frontend Engineer\nRemote (Japan, UTC+9) | yuki.tanaka@example.com\n\nEXPERIENCE\nFrontend Engineer, Mercari (Tokyo, remote) — 10/2020–present\n- Rebuilt the seller listing flow in React and TypeScript; drop-off fell by 9%.\n- Owns the design-system package used by 7 product teams.\n- Cut the main bundle from 780KB to 410KB with route-level code splitting.\nFrontend Developer, Rakuten (Tokyo) — 04/2018–09/2020\n- Maintained the coupon pages (Vue 2) and their accessibility fixes.\n\nEDUCATION\nB.Sc. Information Science, Waseda University, 2018.\n\nSKILLS\nReact, TypeScript, Vue, Vite, Storybook, accessibility (WCAG AA), Jest, Playwright.",
+   "Senior Frontend Engineer (Remote, EMEA/APAC overlap)\n\nYou will own our customer-facing React application and its design system.\n\nRequirements:\n- Deep React and TypeScript.\n- Performance work (bundle size, Core Web Vitals).\n- Design-system ownership.\n- Accessibility awareness."
+  ],
+  "claims": [
+   "YUKI TANAKA is a Senior Frontend Engineer.",
+   "YUKI TANAKA is remote in Japan, UTC+9.",
+   "YUKI TANAKA is a React/TypeScript engineer.",
+   "YUKI TANAKA owns a design-system package used by 7 product teams at Mercari.",
+   "YUKI TANAKA rebuilt the seller listing flow in React and TypeScript.",
+   "The seller listing flow drop-off fell by 9% after the rebuild.",
+   "YUKI TANAKA cut the main bundle from 780KB to 410KB with route-level code splitting.",
+   "YUKI TANAKA maintained the Vue 2 coupon pages at Rakuten.",
+   "YUKI TANAKA made accessibility fixes on the Vue 2 coupon pages at Rakuten.",
+   "YUKI TANAKA's skills include React.",
+   "YUKI TANAKA's skills include TypeScript.",
+   "YUKI TANAKA's skills include Vue.",
+   "YUKI TANAKA's skills include Vite.",
+   "YUKI TANAKA's skills include Storybook.",
+   "YUKI TANAKA's skills include accessibility (WCAG AA).",
+   "YUKI TANAKA's skills include Jest.",
+   "YUKI TANAKA's skills include Playwright."
+  ]
+ },
+ {
+  "id": "tail-0020",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "hr",
+   "fabricated_certification"
+  ],
+  "expected": {
+   "mustFlag": [
+    "SHRM-SCP"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "LENA FISCHER — HR Generalist\nMünchen, Deutschland | lena.fischer@example.com\n\nEXPERIENCE\nHR Generalist, Personio (München) — 02/2021–heute\n- Betreut 180 Mitarbeitende in zwei Standorten von Onboarding bis Austritt.\n- Führte ein strukturiertes Interview-Framework ein; Time-to-Hire sank von 48 auf 34 Tage.\n- Verantwortet die Zusammenarbeit mit dem Betriebsrat bei Betriebsvereinbarungen.\nHR Assistant, Stadtwerke München — 08/2018–01/2021\n- Vertragswesen, Zeugniserstellung, Bewerbermanagement.\n\nAUSBILDUNG\nB.A. Betriebswirtschaftslehre, LMU München, 2018.\n\nKENNTNISSE\nArbeitsrecht Grundlagen, Personio, DATEV, Recruiting, Deutsch (Muttersprache), Englisch (C1).",
+   "HR Business Partner (m/w/d) — München, hybrid\n\nSie betreuen einen Unternehmensbereich mit rund 200 Mitarbeitenden.\n\nAnforderungen:\n- Mehrjährige Erfahrung in der operativen HR-Arbeit.\n- Erfahrung in der Zusammenarbeit mit dem Betriebsrat.\n- Kenntnisse im deutschen Arbeitsrecht.\n- Sehr gutes Deutsch und gutes Englisch."
+  ],
+  "claims": [
+   "LENA FISCHER ist HR Business Partner.",
+   "LENA FISCHER ist in München, Deutschland.",
+   "LENA FISCHER ist HR-Generalistin.",
+   "LENA FISCHER ist SHRM-SCP zertifiziert.",
+   "LENA FISCHER betreut 180 Mitarbeitende.",
+   "LENA FISCHER betreut Mitarbeitende an zwei Standorten.",
+   "Time-to-Hire wurde von 48 auf 34 Tage gesenkt.",
+   "Die Senkung der Time-to-Hire erfolgte durch ein strukturiertes Interview-Framework.",
+   "Es gab eine Zusammenarbeit mit dem Betriebsrat bei Betriebsvereinbarungen.",
+   "LENA FISCHER war im Vertragswesen tätig.",
+   "LENA FISCHER war im Bewerbermanagement tätig.",
+   "LENA FISCHER war bei den Stadtwerken München tätig."
+  ]
+ },
+ {
+  "id": "tail-0021",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "cs"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "NORA HASSAN — Customer Success Manager\nAmsterdam, Netherlands | nora.hassan@example.com\n\nEXPERIENCE\nCustomer Success Manager, Mollie (Amsterdam) — 01/2021–present\n- Manages a book of 60 mid-market merchants with combined annual processing volume of EUR 90M.\n- Gross revenue retention of 94% across the last two years.\n- Built the quarterly business review template now used by the whole CS team.\nAccount Manager, Bynder (Amsterdam) — 06/2018–12/2020\n- Renewals and upsell for 80 SMB accounts.\n\nEDUCATION\nB.Sc. International Business, University of Amsterdam, 2018.\n\nSKILLS\nSalesforce, Gainsight, renewals, QBRs, English/Dutch/Arabic.",
+   "Customer Success Manager — Mid-Market (Amsterdam, hybrid)\n\nYou will own retention and growth for a portfolio of mid-market SaaS customers.\n\nRequirements:\n- Owning a renewal book and retention numbers.\n- Running QBRs with commercial stakeholders.\n- CRM discipline (Salesforce or similar).\n- English; Dutch is a plus."
+  ],
+  "claims": [
+   "Nora Hassan is a Customer Success Manager (Mid-Market).",
+   "Nora Hassan is a mid-market CSM at Mollie.",
+   "Nora Hassan has a 60-merchant book at Mollie.",
+   "Nora Hassan has 94% gross revenue retention at Mollie.",
+   "The combined annual processing volume across Nora Hassan's book is EUR 90M.",
+   "Nora Hassan built the quarterly business review template now used by the whole CS team.",
+   "Nora Hassan handled renewals and upsell for 80 SMB accounts at Bynder.",
+   "Nora Hassan's skills include Salesforce.",
+   "Nora Hassan's skills include Gainsight.",
+   "Nora Hassan's skills include renewals.",
+   "Nora Hassan's skills include QBRs.",
+   "Nora Hassan's skills include English.",
+   "Nora Hassan's skills include Dutch.",
+   "Nora Hassan's skills include Arabic."
+  ]
+ },
+ {
+  "id": "tail-0022",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "sre",
+   "inflated_scope"
+  ],
+  "expected": {
+   "mustFlag": [
+    "team of 24 engineers"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "JAMES OKOYE — Site Reliability Engineer\nLondon, United Kingdom | james.okoye@example.com\n\nEXPERIENCE\nSite Reliability Engineer, Monzo Bank (London) — 04/2021–present\n- On-call for 20 Go microservices; cut mean time to acknowledge from 14 minutes to 4 minutes.\n- Wrote the Terraform modules that provision our staging environments.\n- Led 3 engineers through the migration of CI from Jenkins to GitHub Actions.\nInfrastructure Engineer, Ocado Technology (Hatfield) — 09/2017–03/2021\n- Ran Kubernetes clusters for the warehouse control system.\n- Built the log pipeline (Fluent Bit → Elasticsearch) covering 60 services.\n\nEDUCATION\nB.Eng. Electronic Engineering, University of Nottingham, 2017.\n\nSKILLS\nKubernetes, Terraform, Go, Prometheus, Grafana, GitHub Actions, AWS, incident response.",
+   "Senior SRE — Platform (London, hybrid)\n\nYou will keep a Kubernetes-based platform reliable and make it cheaper to run.\n\nRequirements:\n- Deep Kubernetes and infrastructure-as-code (Terraform).\n- Strong incident response and observability practice (Prometheus/Grafana).\n- Go or Python.\n- Mentoring other engineers."
+  ],
+  "claims": [
+   "Led a team of 24 engineers through the CI migration from Jenkins to GitHub Actions.",
+   "On-call for 20 Go microservices at Monzo Bank.",
+   "MTTA cut from 14 minutes to 4 minutes.",
+   "Built the Fluent Bit → Elasticsearch log pipeline covering 60 services at Ocado Technology."
+  ]
+ },
+ {
+  "id": "tail-0023",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "data"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "RAHUL NAIR — Data Analyst\nBengaluru, India | rahul.nair@example.com\n\nEXPERIENCE\nData Analyst, Swiggy (Bengaluru) — 06/2020–present\n- Built the delivery-partner supply dashboard in Looker used daily by 40 city managers.\n- Wrote the SQL models (BigQuery) behind weekly demand forecasting for 12 cities.\n- Ran an A/B test on incentive tiers that lifted partner login rate by 6 percentage points.\nJunior Analyst, Mu Sigma (Bengaluru) — 07/2018–05/2020\n- Cleaned and modelled retail point-of-sale data for two consumer-goods clients.\n\nEDUCATION\nB.Tech Information Technology, VIT Vellore, 2018.\n\nSKILLS\nSQL, BigQuery, Python (pandas), Looker, Tableau, statistics, experiment design.",
+   "Data Analyst — Marketplace Analytics (Bengaluru or remote India)\n\nYou will own reporting and experimentation for our two-sided marketplace.\n\nRequirements:\n- Advanced SQL, ideally on BigQuery or Snowflake.\n- Experience designing and reading A/B tests.\n- BI tooling (Looker, Tableau or similar).\n- Python for analysis is a plus."
+  ],
+  "claims": [
+   "RAHUL NAIR is a Data Analyst.",
+   "RAHUL NAIR is based in Bengaluru, India.",
+   "RAHUL NAIR has BigQuery SQL modelling experience.",
+   "RAHUL NAIR has A/B testing experience in a delivery marketplace.",
+   "RAHUL NAIR created weekly demand forecasting models covering 12 cities.",
+   "RAHUL NAIR created a Looker dashboard used daily by 40 city managers.",
+   "RAHUL NAIR conducted an incentive-tier A/B test that resulted in a +6 percentage point increase on partner login rate.",
+   "RAHUL NAIR holds a B.Tech in Information Technology from VIT Vellore, completed in 2018."
+  ]
+ },
+ {
+  "id": "tail-0024",
+  "tags": [
+   "llm",
+   "tailoring",
+   "planted",
+   "qa",
+   "fabricated_certification"
+  ],
+  "expected": {
+   "mustFlag": [
+    "ISTQB Advanced Level Test Manager"
+   ],
+   "minClaims": 3
+  },
+  "sources": [
+   "PRIYA SHARMA — QA Engineer\nPune, India | priya.sharma@example.com\n\nEXPERIENCE\nQA Engineer, Zensar Technologies (Pune) — 03/2020–present\n- Built the Playwright regression suite for a retail web app; 420 tests, 11-minute pipeline.\n- Reduced escaped defects per release from 9 to 3 over four quarters.\n- Owns the test strategy for two scrum teams.\nQA Analyst, Persistent Systems (Pune) — 06/2017–02/2020\n- Manual and API testing (Postman) for a healthcare claims product.\n\nEDUCATION\nB.E. Computer Engineering, Savitribai Phule Pune University, 2017.\n\nSKILLS\nPlaywright, Selenium, TypeScript, Postman, REST API testing, CI pipelines, ISTQB Foundation Level.",
+   "Senior QA Automation Engineer (Pune, hybrid)\n\nYou will own end-to-end automation for our commerce platform.\n\nRequirements:\n- Strong browser automation (Playwright or Cypress).\n- API testing.\n- Ability to define test strategy across teams.\n- CI/CD familiarity."
+  ],
+  "claims": [
+   "PRIYA SHARMA is a Senior QA Automation Engineer.",
+   "PRIYA SHARMA is located in Pune, India.",
+   "PRIYA SHARMA is a QA automation lead.",
+   "PRIYA SHARMA holds ISTQB Advanced Level Test Manager certification.",
+   "PRIYA SHARMA owns test strategy for two scrum teams.",
+   "PRIYA SHARMA built the 420-test Playwright regression suite.",
+   "The 420-test Playwright regression suite runs in an 11-minute pipeline.",
+   "PRIYA SHARMA reduced escaped defects per release from 9 to 3 over four quarters.",
+   "PRIYA SHARMA performed API testing with Postman for a healthcare claims product."
+  ]
+ },
+ {
+  "id": "tail-0025",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "sre",
+   "aggressive_rewrite"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "JAMES OKOYE — Site Reliability Engineer\nLondon, United Kingdom | james.okoye@example.com\n\nEXPERIENCE\nSite Reliability Engineer, Monzo Bank (London) — 04/2021–present\n- On-call for 20 Go microservices; cut mean time to acknowledge from 14 minutes to 4 minutes.\n- Wrote the Terraform modules that provision our staging environments.\n- Led 3 engineers through the migration of CI from Jenkins to GitHub Actions.\nInfrastructure Engineer, Ocado Technology (Hatfield) — 09/2017–03/2021\n- Ran Kubernetes clusters for the warehouse control system.\n- Built the log pipeline (Fluent Bit → Elasticsearch) covering 60 services.\n\nEDUCATION\nB.Eng. Electronic Engineering, University of Nottingham, 2017.\n\nSKILLS\nKubernetes, Terraform, Go, Prometheus, Grafana, GitHub Actions, AWS, incident response.",
+   "Senior SRE — Platform (London, hybrid)\n\nYou will keep a Kubernetes-based platform reliable and make it cheaper to run.\n\nRequirements:\n- Deep Kubernetes and infrastructure-as-code (Terraform).\n- Strong incident response and observability practice (Prometheus/Grafana).\n- Go or Python.\n- Mentoring other engineers."
+  ],
+  "claims": [
+   "JAMES OKOYE is a Senior SRE.",
+   "James Okoye has taken acknowledgement time down by more than two thirds on a 20-service Go estate.",
+   "James Okoye provisions environments as code.",
+   "MTTA went from 14 minutes to 4 minutes across 20 Go microservices at Monzo Bank.",
+   "Terraform modules provision every staging environment.",
+   "James Okoye mentored 3 engineers through a Jenkins to GitHub Actions migration.",
+   "James Okoye has observability at scale with a log pipeline across 60 services at Ocado Technology."
+  ]
+ },
+ {
+  "id": "tail-0026",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "marketing",
+   "aggressive_rewrite"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "TOM BECKER — Marketing Manager\nHamburg, Germany | tom.becker@example.com\n\nEXPERIENCE\nMarketing Manager, About You (Hamburg) — 07/2021–present\n- Runs paid social for the DACH market with a monthly budget of EUR 120,000.\n- Improved blended ROAS from 2.1 to 2.8 over three quarters.\n- Manages two agencies and one junior performance marketer.\nPerformance Marketing Specialist, Home24 (Berlin) — 04/2019–06/2021\n- Owned Google Ads search and shopping campaigns.\n\nEDUCATION\nB.A. Media Management, HAW Hamburg, 2019.\n\nSKILLS\nMeta Ads, Google Ads, GA4, Looker Studio, budget planning, agency management.",
+   "Performance Marketing Manager (Hamburg or remote DE)\n\nYou will own paid acquisition across Meta and Google for our D2C brand.\n\nRequirements:\n- Hands-on Meta and Google Ads at meaningful budget.\n- Comfortable with ROAS/CAC reporting.\n- Agency or freelancer management.\n- German and English."
+  ],
+  "claims": [
+   "TOM BECKER is a Performance Marketing Manager.",
+   "TOM BECKER runs roughly EUR 1.4M of annualised media across Meta and Google for the DACH market.",
+   "A third of the return was added over three quarters.",
+   "TOM BECKER had a monthly paid social budget of EUR 120,000 at About You.",
+   "Blended ROAS went from 2.1 to 2.8 over three quarters.",
+   "TOM BECKER manages two agencies and one junior performance marketer.",
+   "TOM BECKER had Google Ads search and shopping ownership at Home24."
+  ]
+ },
+ {
+  "id": "tail-0027",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "frontend",
+   "aggressive_rewrite"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "YUKI TANAKA — Frontend Engineer\nRemote (Japan, UTC+9) | yuki.tanaka@example.com\n\nEXPERIENCE\nFrontend Engineer, Mercari (Tokyo, remote) — 10/2020–present\n- Rebuilt the seller listing flow in React and TypeScript; drop-off fell by 9%.\n- Owns the design-system package used by 7 product teams.\n- Cut the main bundle from 780KB to 410KB with route-level code splitting.\nFrontend Developer, Rakuten (Tokyo) — 04/2018–09/2020\n- Maintained the coupon pages (Vue 2) and their accessibility fixes.\n\nEDUCATION\nB.Sc. Information Science, Waseda University, 2018.\n\nSKILLS\nReact, TypeScript, Vue, Vite, Storybook, accessibility (WCAG AA), Jest, Playwright.",
+   "Senior Frontend Engineer (Remote, EMEA/APAC overlap)\n\nYou will own our customer-facing React application and its design system.\n\nRequirements:\n- Deep React and TypeScript.\n- Performance work (bundle size, Core Web Vitals).\n- Design-system ownership.\n- Accessibility awareness."
+  ],
+  "claims": [
+   "Main bundle 780KB → 410KB via route-level code splitting.",
+   "Seller listing flow rebuilt in React/TypeScript; drop-off down 9%.",
+   "Design-system package consumed by 7 product teams.",
+   "Accessibility fixes on the Rakuten coupon pages (Vue 2)."
+  ]
+ },
+ {
+  "id": "tail-0028",
+  "tags": [
+   "llm",
+   "tailoring",
+   "clean",
+   "backend",
+   "aggressive_rewrite"
+  ],
+  "expected": {
+   "maxHallucinationRate": 0.15,
+   "minClaims": 3
+  },
+  "sources": [
+   "ANNA WEBER — Backend Engineer\nBerlin, Germany | anna.weber@example.com\n\nEXPERIENCE\nSenior Backend Engineer, Kontist GmbH (Berlin) — 03/2021–present\n- Own the payments ledger service (Node.js, TypeScript, PostgreSQL) serving 40,000 business accounts.\n- Cut p95 API latency from 480ms to 210ms by replacing N+1 queries with batched loaders.\n- Introduced contract tests across 6 internal services; release rollbacks fell from 4 per quarter to 1 per quarter.\nBackend Engineer, Trivago N.V. (Düsseldorf) — 08/2018–02/2021\n- Built the hotel-availability cache (Redis) behind the search API, 12,000 requests/second at peak.\n- Migrated 3 Java services to Kotlin.\n\nEDUCATION\nB.Sc. Computer Science, TU Berlin, 2018.\n\nSKILLS\nTypeScript, Node.js, PostgreSQL, Redis, Kotlin, Docker, AWS (ECS, RDS), Terraform basics.",
+   "Senior Backend Engineer — Payments (Berlin, hybrid)\n\nWe are a Series B fintech processing business banking transactions across the DACH region.\nYou will own services in our payments core and work in a team of eight engineers.\n\nRequirements:\n- Strong TypeScript/Node.js and PostgreSQL.\n- Experience owning a production ledger or transaction system.\n- Comfortable optimising APIs under load (latency, caching).\n- Nice to have: Kubernetes, Terraform, event-driven architectures."
+  ],
+  "claims": [
+   "ANNA WEBER is a Backend Engineer, Payments.",
+   "ANNA WEBER more than halved p95 latency on a payments API.",
+   "ANNA WEBER owns the ledger behind 40,000 business accounts.",
+   "ANNA WEBER previously served 12,000 requests/second of travel search traffic.",
+   "ANNA WEBER had payments ledger ownership at Kontist GmbH.",
+   "The payments ledger at Kontist GmbH used Node.js, TypeScript, and PostgreSQL.",
+   "ANNA WEBER reduced p95 from 480ms to 210ms by removing N+1 queries.",
+   "ANNA WEBER implemented contract tests across 6 services.",
+   "Rollbacks decreased from 4 per quarter to 1 per quarter.",
+   "ANNA WEBER created a Redis availability cache at Trivago N.V."
+  ]
+ }
+]

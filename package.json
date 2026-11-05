@@ -1,0 +1,33 @@
+{
+  "name": "evalhub",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Eval Hub \u2014 estate-wide LLM/agent quality platform: golden suites, runs, baselines, regression verdicts, one deploy gate.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "start": "tsx src/server.ts",
+    "dev": "tsx watch src/server.ts",
+    "gate": "tsx bin/evalhub-gate.mts",
+    "corpus": "tsx scripts/tune-hallucination.mts",
+    "report": "tsx scripts/report.mts",
+    "test": "tsx scripts/test-verdict.mts && tsx scripts/test-scorers.mts && tsx scripts/test-stats.mts && tsx scripts/test-safety.mts && tsx scripts/test-curves.mts && tsx scripts/test-ab.mts && tsx scripts/test-shadow.mts && tsx scripts/test-hub.mts && tsx scripts/test-hub-phase2.mts && tsx scripts/test-hub-phase3.mts && tsx scripts/test-hub-phase3b.mts && tsx scripts/test-hub-phase4.mts && tsx scripts/test-hub-targets.mts && tsx scripts/test-review.mts && tsx scripts/test-csp.mts",
+    "methodology": "tsx scripts/methodology.mts"
+  },
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2",
+    "fastify": "^5.11.2",
+    "nodemailer": "^9.0.4",
+    "postgres": "^3.4.5",
+    "tsx": "^4.19.2",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/nodemailer": "^8.0.1",
+    "typescript": "^5.7.2"
+  }
+}
